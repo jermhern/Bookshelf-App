@@ -1,5 +1,5 @@
 #page title
-page_title                                : Bookself: Save books for later            # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Bookshelf: Save books for later            # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Jeremy Hernandez                                
 your_link                                 : https://jermhern.carrd.co                     
-your_city                                 : jermhern                                
+your_city                                 : Alexandria                                
 email_address                             : jermhern@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
