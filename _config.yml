@@ -37,23 +37,23 @@ features                                  :
 
   - title                                 : Designed for simplicity
     description                           : All you have to do is find your new favorite book at your local bookstore or library, scan it with Bookshelf, and just like that, its saved for later!
-    fontawesome_icon_name                 : book-blank
+    fontawesome_icon_name                 : book-bookmark
     
   - title                                 : All-In-One
     description                           : Books in your Bookshelf have descriptions, ratings, links to buy online, and an option to share with others!
-    fontawesome_icon_name                 : align-left
+    fontawesome_icon_name                 : star
 
   - title                                 : Stop taking pictures
     description                           : Bookshelf solves the problem of taking a photo of book cover to save it for later, only have it buried in your photos library.
-    fontawesome_icon_name                 : camera-slash
+    fontawesome_icon_name                 : barcode
 
   - title                                 : Works on any book
     description                           : If you have a new book or old, as long as you have a barcode you can save it in Bookshelf.
-    fontawesome_icon_name                 : ballot
+    fontawesome_icon_name                 : quote-left
 
   - title                                 : Offline Bookshelf
     description                           : Dont worry. You can always access your book scans offline if you lose connection!
-    fontawesome_icon_name                 : wifi-slash
+    fontawesome_icon_name                 : wifi
 
 
 
