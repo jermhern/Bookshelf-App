@@ -43,7 +43,7 @@ features                                  :
     description                           : Books in your Bookshelf have descriptions, ratings, links to buy online, and an option to share with others!
     fontawesome_icon_name                 : star
 
-  - title                                 : Stop taking pictures
+  - title                                 : Just one scan
     description                           : Bookshelf solves the problem of taking a photo of book cover to save it for later, only have it buried in your photos library.
     fontawesome_icon_name                 : barcode
 
@@ -54,6 +54,10 @@ features                                  :
   - title                                 : Offline Bookshelf
     description                           : Dont worry. You can always access your book scans offline if you lose connection!
     fontawesome_icon_name                 : wifi
+    
+  - title                                 : So much fun!
+    description                           : Find out how many more books you can save for later with Bookshelf, its addicting! Download today.
+    fontawesome_icon_name                 : app-store-ios
 
 
 
