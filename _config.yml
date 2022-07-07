@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Designed for simplicity
     description                           : All you have to do is find your new favorite book at your local bookstore or library, scan it with Bookshelf, and just like that, its saved for later!
-    fontawesome_icon_name                 : book-bookmark
+    fontawesome_icon_name                 : check
     
   - title                                 : All-In-One
     description                           : Books in your Bookshelf have descriptions, ratings, links to buy online, and an option to share with others!
