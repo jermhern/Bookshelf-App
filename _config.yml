@@ -35,45 +35,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Designed for simplicity
+    description                           : All you have to do is find your new favorite book at your local bookstore or library, scan it with Bookshelf, and just like that, its saved for later!
+    fontawesome_icon_name                 : book-blank
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : All-In-One
+    description                           : Books in your Bookshelf have descriptions, ratings, links to buy online, and an option to share with others!
+    fontawesome_icon_name                 : align-left
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Stop taking pictures
+    description                           : Bookshelf solves the problem of taking a photo of book cover to save it for later, only have it buried in your photos library.
+    fontawesome_icon_name                 : camera-slash
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Works on any book
+    description                           : No matter what age of book, as long as you have a barcode you can save it in Bookshelf.
+    fontawesome_icon_name                 : ballot
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Offline Bookshelf
+    description                           : Dont worry. You can always access your book scans offline if you lose connection!
+    fontawesome_icon_name                 : wifi-slash
 
 
 
