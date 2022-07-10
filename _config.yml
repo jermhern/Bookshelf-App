@@ -1,5 +1,5 @@
 #page title
-page_title                                : Bookshelf                                 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Bookshlf                                 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/logo.png                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Bookshelf                                 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Bookshlf                                 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Save books with a scan.                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : An app to help you save books to read for later. No longer will you have to take a picture of the cover or remember the name. Simply scan the books barcode and add it to your Bookshelf.
 
@@ -57,7 +57,7 @@ features                                  :
     
   - title                                 : So much fun!
     description                           : Find out how many more books you can save for later with Bookshelf, its addicting! Download today.
-    fontawesome_icon_name                 : app-store
+    fontawesome_icon_name                 : face-smile
 
 
 
