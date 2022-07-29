@@ -9,6 +9,19 @@ include_in_header: true
 <br>
 
 ### `Latest`
+## Version a0.0.2
+This is definitely not ready for any sort of beta testing. I am looking forward to releasing this in the fall of 2022!
+
+#### What's New
+- Quick scan implemented, no more "tap to scan"
+- Changed UI for book results
+- Changed UI for bookshelf items
+
+#### Bug Fixes
+- Changed animation to not be as jumpy
+
+<br>
+
 ## Version a0.0.1
 This is definitely not ready for any sort of beta testing. I am looking forward to releasing this in the fall of 2022!
 
