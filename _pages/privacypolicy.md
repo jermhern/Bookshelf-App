@@ -6,6 +6,10 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 Whenever you use Bookshlf, in a case of an error in the app, Apple may send me the crash log. I only receive this Log Data when you have explicitly chosen to enable it in your iPhone’s Privacy settings. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
+## User Data
+
+Bookshlf NEVER saves or is aware of identifying infomation for users such as books saved, books searched for. The only information the developer is aware of is the amount of daily users, purchases and Log Data from apple. 
+
 ## Cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
