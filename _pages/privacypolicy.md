@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy
+include_in_header: false
+---
+
 # Privacy Policy
 
 Jeremy Hernandez built the Bookshlf app as a Free app. This SERVICE is provided by Jeremy Hernandez at no cost and is intended for use as is.
