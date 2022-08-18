@@ -9,7 +9,7 @@ include_in_header: true
 <br>
 
 ### `Latest`
-## Version b1.0
+## Version b1.0 (build 10)
 Released for beta testing on Twitter, Airport, along with friends and family.
 
 #### What's New
@@ -17,10 +17,10 @@ Released for beta testing on Twitter, Airport, along with friends and family.
 - New UI for button to scan books
 - Slide to start/finish reading books in your Bookshelf
 - Created store screenshots
-
-#### Whats coming
-- Add more animations
-- Add more information to the settings screen
+- Search for books using their title
+- IAP for premium Bookshlf features
+- Animations throughout application
+- Lots & lots of bug fixes
 
 <br>
 
