@@ -36,27 +36,27 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Designed for simplicity
-    description                           : All you have to do is find your new favorite book at your local bookstore or library, scan it with Bookshelf, and just like that, its saved for later!
+    description                           : All you have to do is scan or search for your book with Bookshlf. Just like that, its saved for later!
     fontawesome_icon_name                 : check
     
   - title                                 : All-In-One
-    description                           : Books in your Bookshelf have descriptions, ratings, links to buy online, and an option to share with others!
+    description                           : Books in your Bookshlf have descriptions, ratings, links to buy online, and an option to share with others!
     fontawesome_icon_name                 : star
 
   - title                                 : Just one scan
-    description                           : Bookshelf solves the problem of taking a photo of book cover to save it for later, only have it buried in your photos library.
+    description                           : Bookshlf solves the problem of taking a photo of a book cover to save it, only to have it buried in your photo library.
     fontawesome_icon_name                 : barcode
 
   - title                                 : Works on any book
-    description                           : If you have a new book or old, as long as you have a barcode you can save it in Bookshelf.
+    description                           : As long as you have a book barcode or title you can save it in Bookshelf.
     fontawesome_icon_name                 : quote-left
 
   - title                                 : Offline Bookshelf
-    description                           : Dont worry. You can always access your book scans offline if you lose connection!
+    description                           : You can always access your saved books offline!
     fontawesome_icon_name                 : wifi
     
   - title                                 : So much fun!
-    description                           : Find out how many more books you can save for later with Bookshelf, its addicting! Download today.
+    description                           : Find out how many more books you can save for later with Bookshlf, its addicting! Download today.
     fontawesome_icon_name                 : book
 
 
